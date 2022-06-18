@@ -7,8 +7,27 @@ Human behaviour is a complex case study, especially when performing emotion reco
 Text<br>
 
 
+
+
+## Materials and methods
+### Neural Networks
+
+### Tech stack
+
+### Dataset
+
+### Results
+![Training_accuracy_vs_validation_accuracy](https://github.com/rcgc/FacialEmotionRecognition/blob/master/readme_images/trainAcc_vs_valAcc.png)
+<p><b>Figure 4. </b>Training accuracy vs Validation accuracy</p><br>
+
 ![Application_usage](https://github.com/rcgc/FacialEmotionRecognition/blob/master/readme_images/emotion_recognition_usage.jpeg)
-<p><b>Figure 1. </b>Application usage</p><br>
+<p><b>Figure 5. </b>Application usage</p><br>
+
+### How to use it
+![Training_loss_vs_validation_loss](https://github.com/rcgc/FacialEmotionRecognition/blob/master/readme_images/trainLoss_vs_valLoss.png)
+<p><b>Figure 6. </b>Training loss vs Validation loss</p><br>
+
+## Conclusion
 
 ## References
 [1]S. Russell and P. Norvig, Artificial intelligence, 4th ed. 2020.<br>
