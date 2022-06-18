@@ -4,20 +4,15 @@
 Human behaviour is a complex case study, especially when performing emotion recognition: Gestures that correspond to an emotion for a given face could not be accurate enough when predicting another one. This project is a simple approach to accomplish such task by implementing a neural network in keras and tensorflow combined with an artificial vision library known as OpenCV.<br>
 
 ## Introduction
-Text<br>
-
-
-
+Emotion recognition is the process of identifying human emotion. People vary widely in their accuracy at recognizing the emotions of others. Use of technology to help people with emotion recognition is a relatively nascent research area. Generally, the technology works best if it uses multiple modalities in context.<br>
 
 ## Materials and methods
-### Neural Networks
-
 ### Technology stack
 | Aspect                  | Tool              |
 | -------------           | -------------     |
 | Hardware accelerator    | GPU               |
 | Framework               | Tensorflow        |
-| Libraries               |  Keras & OpenCV   |
+| Libraries               | Keras & OpenCV    |
 | NN Type                 | Convolutional     |
 | Architecture            | VGG11             |
 | Programming laanguage   | Content Cell      |
