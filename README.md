@@ -50,7 +50,7 @@ Run all the code snippets from the jupyter notebook from top to bottom and choos
 <p><b>Figure 5. </b>Application usage</p><br>
 
 ## Conclusion
-
+This is not a complete facial emotion recognition system due to we had to reduce the emotions dataset from 7 to 4 in order to increase training and validation accuracy. Also, we not only need images to predict the emotion that some could be feeling in a especific moment, we need to detect many other aspects such as substances involved in the process like adrenaline, cortisol, etc. However, this information could be used to help patients to improve mental health by monitoring their humor during the day and keeping a record of their progress<br>
 
 ## References
 [1]S. Russell and P. Norvig, Artificial intelligence, 4th ed. 2020.<br>
