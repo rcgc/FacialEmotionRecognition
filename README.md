@@ -24,7 +24,7 @@ Text<br>
 | Code editor             | Google Colab      |
 | Web browser             | Google Chrome     |
 
-<br>Table 1. </b>Project tech stack
+Table 1. </b>Project tech stack<br>
 
 ### Dataset
 The dataset used for this project was taken from Jonathan Gheix kaggle account[18]. In the following graph we can visualize the different emotions found: <br>
