@@ -1,8 +1,12 @@
 # Facial Emotion Recognition
 
 ## Abstract
+Human behaviour is a complex case study, especially when performing emotion recognition: Gestures that correspond to an emotion for a given face could not be accurate enough when predicting another one. This project is a simple approach to accomplish such task by implementing a neural network in keras and tensorflow combined with an artificial vision library known as OpenCV.<br>
 
 ## Introduction
+Text<br>
+
+
 ![Application_usage](https://github.com/rcgc/FacialEmotionRecognition/blob/master/emotion_recognition_usage.jpeg)
 <p><b>Figure 1. </b>Application usage</p><br>
 
