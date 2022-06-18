@@ -7,7 +7,7 @@ Human behaviour is a complex case study, especially when performing emotion reco
 Text<br>
 
 
-![Application_usage](https://github.com/rcgc/FacialEmotionRecognition/blob/master/emotion_recognition_usage.jpeg)
+![Application_usage](https://github.com/rcgc/FacialEmotionRecognition/blob/master/readme_images/emotion_recognition_usage.jpeg)
 <p><b>Figure 1. </b>Application usage</p><br>
 
 ## References
