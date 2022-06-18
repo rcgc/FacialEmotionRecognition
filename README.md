@@ -15,17 +15,23 @@ Text<br>
 ### Tech stack
 
 ### Dataset
+The dataset used for this project was taken from the Jonathan Gheix kaggle account[18]. In the following graph we can visualize the different emotions found: <br>
+
+![Emotion_frequencies](https://github.com/rcgc/FacialEmotionRecognition/blob/master/readme_images/emotion_frequencies.png)
+<p><b>Figure 3. </b>Emotion frequencies</p><br>
 
 ### Results
 ![Training_accuracy_vs_validation_accuracy](https://github.com/rcgc/FacialEmotionRecognition/blob/master/readme_images/trainAcc_vs_valAcc.png)
 <p><b>Figure 4. </b>Training accuracy vs Validation accuracy</p><br>
 
-![Application_usage](https://github.com/rcgc/FacialEmotionRecognition/blob/master/readme_images/emotion_recognition_usage.jpeg)
-<p><b>Figure 5. </b>Application usage</p><br>
 
-### How to use it
 ![Training_loss_vs_validation_loss](https://github.com/rcgc/FacialEmotionRecognition/blob/master/readme_images/trainLoss_vs_valLoss.png)
 <p><b>Figure 6. </b>Training loss vs Validation loss</p><br>
+
+
+### How to use it
+![Application_usage](https://github.com/rcgc/FacialEmotionRecognition/blob/master/readme_images/emotion_recognition_usage.jpeg)
+<p><b>Figure 5. </b>Application usage</p><br>
 
 ## Conclusion
 
