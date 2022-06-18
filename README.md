@@ -23,6 +23,7 @@ Text<br>
 | Programming laanguage   | Content Cell      |
 | Code editor             | Google Colab      |
 | Web browser             | Google Chrome     |
+
 <br>Table 1. </b>Project tech stack
 
 ### Dataset
