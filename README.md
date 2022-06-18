@@ -12,10 +12,22 @@ Text<br>
 ## Materials and methods
 ### Neural Networks
 
-### Tech stack
+### Technology stack
+| Aspect                  | Tool              |
+| -------------           | -------------     |
+| Hardware accelerator    | GPU               |
+| Framework               | Tensorflow        |
+| Libraries               |  Keras & OpenCV   |
+| NN Type                 | Convolutional     |
+| Architecture            | VGG11             |
+| Programming laanguage   | Content Cell      |
+| Code editor             | Google Colab      |
+| Web browser             | Google Chrome     |
+
+<p><br>Table 1. </b>Project tech stack</p>
 
 ### Dataset
-The dataset used for this project was taken from the Jonathan Gheix kaggle account[18]. In the following graph we can visualize the different emotions found: <br>
+The dataset used for this project was taken from Jonathan Gheix kaggle account[18]. In the following graph we can visualize the different emotions found: <br>
 
 ![Emotion_frequencies](https://github.com/rcgc/FacialEmotionRecognition/blob/master/readme_images/emotion_frequencies.png)
 <p><b>Figure 3. </b>Emotion frequencies</p><br>
@@ -28,12 +40,17 @@ The dataset used for this project was taken from the Jonathan Gheix kaggle accou
 ![Training_loss_vs_validation_loss](https://github.com/rcgc/FacialEmotionRecognition/blob/master/readme_images/trainLoss_vs_valLoss.png)
 <p><b>Figure 6. </b>Training loss vs Validation loss</p><br>
 
+Due to early stopping training accuracy reached between 70-75% and validation accucary reached 60-66%.<br>
 
 ### How to use it
+
+Run all the code snippets from the jupyter notebook from top to bottom and choose GPU as runtime type/hardware accelerator.<br>
+
 ![Application_usage](https://github.com/rcgc/FacialEmotionRecognition/blob/master/readme_images/emotion_recognition_usage.jpeg)
 <p><b>Figure 5. </b>Application usage</p><br>
 
 ## Conclusion
+
 
 ## References
 [1]S. Russell and P. Norvig, Artificial intelligence, 4th ed. 2020.<br>
