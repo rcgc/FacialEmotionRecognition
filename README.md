@@ -8,16 +8,16 @@ Emotion recognition is the process of identifying human emotion. People vary wid
 
 ## Materials and methods
 ### Technology stack
-| Aspect                  | Tool              |
-| -------------           | -------------     |
-| Hardware accelerator    | GPU               |
-| Framework               | Tensorflow        |
-| Libraries               | Keras & OpenCV    |
-| NN Type                 | Convolutional     |
-| Architecture            | VGG11             |
-| Programming laanguage   | Content Cell      |
-| Code editor             | Google Colab      |
-| Web browser             | Google Chrome     |
+| Aspect                  | Tool                |
+| -------------           | -------------       |
+| Hardware accelerator    | GPU                 |
+| Framework               | Tensorflow          |
+| Libraries               | Keras & OpenCV      |
+| NN Type                 | Convolutional       |
+| Architecture            | VGG11               |
+| Programming language    | Python & JavaScript |
+| Code editor             | Google Colab        |
+| Web browser             | Google Chrome       |
 
 Table 1. </b>Project tech stack<br>
 
